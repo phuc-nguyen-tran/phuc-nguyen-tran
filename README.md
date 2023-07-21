@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is Nguyen, a Computer Science undergraduate at the University of Rochester. My interest lies in the intersection of Computer Science and Finance, as I want to use software development to assess real-time change in the financial market. My current focus is on full-stack software development, and I'm open to expanding my skill sets into different fields in the technology sections!
+
 
 <!--
 **phuc-nguyen-tran/phuc-nguyen-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
